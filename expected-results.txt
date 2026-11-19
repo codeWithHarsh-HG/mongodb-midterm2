@@ -1,0 +1,21 @@
+Expected results
+================
+
+cafe-sales.js
+
+Task 1: delivered 5, cancelled 1, pending 1.
+Task 3:
+  Coffee: totalQty 6, revenue 720
+  Cake: totalQty 1, revenue 250
+  Sandwich: totalQty 1, revenue 180
+Task 4:
+  Meena: orders 2, totalSpend 490
+  Karthik: orders 1, totalSpend 360
+  Ravi: orders 2, totalSpend 300
+Task 5: Meena, totalSpend 490.
+
+library.js final data:
+  Artificial Intelligence - 4
+  Computer Networks - 3
+  Database Systems - 4
+  Operating Systems - 5
